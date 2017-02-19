@@ -1,0 +1,67 @@
+{
+  "formData": {
+
+    "atabSet": {
+      "group": "选项卡名称",
+      "title": "默认显示tab数",
+      "fields": [
+        {
+          "name": "tabNum",
+          "title": "默认显示tab数量",
+          "type": "string"
+        }
+      ],
+      "importType": 1,
+      "minRow": 1,
+      "maxRow": 1,
+      "models": [
+        {
+          "tabNum": "3.5",
+          "sourceType": "mce",
+          "sourceKey-bak": "11285",
+          "coolData": false
+        }
+      ]
+    },
+
+    "bGoodWallStyle": {
+      "group": "选项卡名称",
+      "title": "图墙商品样式",
+      "fields": [
+        {
+          "name": "priceLabel",
+          "title": "商品价格标签文案",
+          "type": "string"
+        },
+        {
+          "name": "priceButtonColor",
+          "title": "商品价格标签、按钮颜色",
+          "type": "string"
+        },
+        {
+          "name": "tagLabel",
+          "title": "商品图片上标文案(6个字以内)",
+          "type": "string"
+        },
+        {
+          "name": "tagBg",
+          "title": "商品图片上标背景",
+          "type": "string"
+        }
+      ],
+      "minRow": 1,
+      "maxRow": 1,
+      "models": [
+        {
+          "priceLabel": "清仓价",
+          "priceButtonColor": "#fb2515",
+          "tagLabel": "",
+          "tagBg": ""
+        }
+      ]
+    }
+
+  },
+  "staticData": {},
+  "pluginData": {}
+}

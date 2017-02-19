@@ -1,0 +1,12 @@
+{
+    "title": "H5_番茄炒蛋_导航_滑动图墙tab/番茄炒蛋",
+    "id":"35586",
+    "code":"c8a841666d3fc9d3bf15eaf7c23f852d",
+    "author":"nanxing",
+    "label":"h5_go_navigation_scrollWallTab",
+    "template":"h5-default",
+    "versionId": "1.0.1",
+    "concatJs":[
+        "./src/h5_go_navigation_scrollWallTab/js/ScrollTab.js"
+    ]
+}
